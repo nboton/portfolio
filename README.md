@@ -61,7 +61,7 @@ Fort de plus de **5 années d’expérience**, j’ai contribué à des projets 
 🔗 [LinkedIn – Olive BOTON](https://www.linkedin.com/in/olive-boton-b56501198)  
 
 Quelques projets représentatifs :  
-- **🚀 Pipeline GCP – BigQuery / Dataflow** : ingestion automatisée de données depuis Azure Blob Storage.  
+- **🚀 [Pipeline GCP ](https://github.com/nboton/Yellow-Taxi-Trip-Records/tree/main)  
 - **📊 Tableau de bord Power BI** : analyse de ventes et prévision des tendances.  
 - **⚙️ ETL Talend** : intégration multi-sources et contrôle qualité des données.  
 
